@@ -1,7 +1,7 @@
 {
-  "name": "web-lab3",
+  "name": "orders-cli",
   "version": "1.0.0",
-  "description": "CLI програма для управління замовленнями",
+  "description": "CLI for browsing and analysing online-shop orders from a JSON file",
   "main": "index.js",
   "type": "module",
   "scripts": {
